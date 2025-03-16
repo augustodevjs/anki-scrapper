@@ -1,0 +1,7 @@
+# Ignore plist, hash, secrets, bin, logs, and .idea files
+com.user.ankiscraper.plist
+last_content_hash.txt
+secrets.json
+bin/
+logs/
+.idea/

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ze0FvJlog9o=",
+  "success": true,
+  "projectFilePath": "/Users/contractor.jmonteiro/Documents/personal-projects/scraping-anki/scraping-anki.csproj",
+  "expectedPackageFiles": [
+    "/Users/contractor.jmonteiro/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/selenium.support/4.29.0/selenium.support.4.29.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/selenium.webdriver/4.29.0/selenium.webdriver.4.29.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/selenium.webdriver.chromedriver/134.0.6998.8800/selenium.webdriver.chromedriver.134.0.6998.8800.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/contractor.jmonteiro/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
