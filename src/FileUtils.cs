@@ -1,3 +1,6 @@
+using System;
+using System.IO;
+
 namespace scraping_anki;
 
 public static class FileUtils

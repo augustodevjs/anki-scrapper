@@ -1,4 +1,8 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using System;
+using System.IO;
+using System.Threading;
+using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
@@ -27,12 +31,12 @@ class Program
                 .Build();
 
             Logger.LogToFile("Configuration loaded successfully");
-            Logger.LogToFile("Scheduled to run daily at 20:30");
+            Logger.LogToFile("Scheduled to run daily at 17:00");
 
             while (true)
             {
                 var now = DateTime.Now;
-                var scheduledTime = new DateTime(now.Year, now.Month, now.Day, 22, 43, 0);
+                var scheduledTime = new DateTime(now.Year, now.Month, now.Day, 16, 20, 0);
                 if (now > scheduledTime)
                 {
                     scheduledTime = scheduledTime.AddDays(1);
